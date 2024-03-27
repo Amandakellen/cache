@@ -86,6 +86,8 @@ dependencies {
     implementation ("androidx.navigation:navigation-ui-ktx:2.7.7")
     implementation ("com.google.android.material:material:1.11.0")
 
+    implementation ("androidx.room:room-runtime:2.6.1")
+
 
 
 }
